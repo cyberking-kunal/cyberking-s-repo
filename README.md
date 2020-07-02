@@ -1,2 +1,3 @@
 # cyberking-s-repo
-#my first repo
+my first repo
+first commit on github
